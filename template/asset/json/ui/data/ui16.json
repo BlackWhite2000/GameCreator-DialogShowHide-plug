@@ -1,0 +1,169 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "146648978668_0.7836306878710861",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "隐藏对话界面",
+                "x": 1516,
+                "y": 17,
+                "width": 64,
+                "height": 64,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "isOpen": true,
+                "enabledLimitView": null,
+                "scrollShowType": 0,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "slowmotionType": 2,
+                "enabledWheel": false,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "146648978669_0.6893080807737795",
+                        "condition": [],
+                        "type": "UIButton",
+                        "name": "隐藏对话界面按钮",
+                        "x": 0,
+                        "y": 0,
+                        "width": 64,
+                        "height": 64,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "lock": false,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "label": "",
+                        "image1": "asset/image/picture/ui/dialog/backgroundcolor_1.png",
+                        "grid9img1": "0,0,0,0,0",
+                        "image2": "asset/image/picture/ui/dialog/backgroundcolor_2.png",
+                        "grid9img2": "0,0,0,0,0",
+                        "image3": "asset/image/picture/ui/dialog/backgroundcolor_2.png",
+                        "grid9img3": "0,0,0,0,0",
+                        "fontSize": 16,
+                        "color": "#999999",
+                        "overColor": "#999999",
+                        "clickColor": "#999999",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": null,
+                        "align": 1,
+                        "valign": 1,
+                        "letterSpacing": 0,
+                        "font": "Source_Han_Sans",
+                        "textDx": 0,
+                        "textDy": 0,
+                        "textStroke": 0,
+                        "textStrokeColor": "#000000",
+                        "children": [
+                            {
+                                "id": "146648978670_0.9980620299478866",
+                                "condition": [],
+                                "type": "UIBitmap",
+                                "name": "图案",
+                                "x": 2,
+                                "y": 2,
+                                "width": 61,
+                                "height": 61,
+                                "opacity": 1,
+                                "rotation": 0,
+                                "show": true,
+                                "mouseEventEnabledData": false,
+                                "materialData": [
+                                    {
+                                        "materials": []
+                                    }
+                                ],
+                                "mouseEventEnabledInEditor": true,
+                                "lock": false,
+                                "showOnEditor": true,
+                                "hasCommand": [],
+                                "isOpen": true,
+                                "image": "asset/image/picture/ui/dialog/hidden.png",
+                                "grid9": "0,0,0,0,0",
+                                "flip": null,
+                                "isTile": null,
+                                "pivotType": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "146649054239_0.04248599967684341",
+                "condition": [],
+                "type": "UIString",
+                "name": "文本",
+                "x": 1167,
+                "y": 91,
+                "width": 415,
+                "height": 30,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "点击按钮控制对话框显示隐藏",
+                "fontSize": 29,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "align": 2,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 2,
+                "font": "Source_Han_Sans",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 5,
+                "strokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 16,
+    "hasRootCommand": [],
+    "instanceClassName": ""
+}

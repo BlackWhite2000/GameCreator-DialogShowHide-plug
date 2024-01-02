@@ -1,0 +1,78 @@
+[
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [],
+            [],
+            [
+                15002
+            ],
+            [],
+            null,
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/285/BgmNo_yyvhc.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            []
+        ],
+        "id": 285,
+        "name": "游戏静音插件",
+        "lastUpdateTime": 1657162779,
+        "author": "BlackWhite",
+        "gcver": null
+    },
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [],
+            [],
+            [
+                15001
+            ],
+            [],
+            null,
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/897/DialogShowHide.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            []
+        ],
+        "id": 897,
+        "name": "对话框显示隐藏",
+        "lastUpdateTime": 1704205091,
+        "author": "BlackWhite",
+        "gcver": null
+    }
+]
